@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-sign numbers
+mit den 8 Schiebern kann man eine Zahl von 1 bis 8 auf dem 7 segment Display anzeigen lassen. wenn kein schieber umgelegt wird, wird die Zahl 0 angezeigt
 
 ## How to test
 
-buttons
+mit den schiebenr verschiedene Zahlen anzeigen lassen
 
 ## External hardware
 
-8 buttons 
+es wird eine 7 segment Anzeige und ein 8 facher SSchieber Blox benötigt 
